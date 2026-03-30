@@ -16,7 +16,7 @@ The **System Resource Monitor** is a Flask-based web application designed for re
 - **Frontend:** HTML/CSS/JS (Vanilla) with real-time API polling.
 
 ### 1.3 Repository & Synchronization
-- **GitHub Repository:** https://github.com/ease104-create/AI-Edu-2.git
+- **GitHub Repository:** https://github.com/ease10004-AI/AI-Edu-2.git
 - **Branch:** main
 - **Synchronization Policy:** All updates should be pushed to the `main` branch of this repository.
 
