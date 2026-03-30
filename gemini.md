@@ -1,5 +1,8 @@
 # System Resource Monitor
 
+## 0. General Instructions
+- **Bilingual Output Required:** All explanations, responses, and technical documentation must be provided in English first, followed by a Korean translation directly below. This applies to all agent interactions and generated content.
+
 ## 1. Project Overview
 The **System Resource Monitor** is a Flask-based web application designed for real-time monitoring of system resources. It provides a dashboard for visualizing performance metrics and includes functionality to track data over time and generate comprehensive PDF reports.
 
